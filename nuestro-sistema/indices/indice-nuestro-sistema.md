@@ -185,28 +185,6 @@
 
 ---
 
-## 5. NON-LOCAL SEO
-- Fase 1: Mapa de Relevancia Topical
-    → What is the Core 30? (referencia)
-    → Generate Topical Relevance
-    → AI-Generate Keyword Variations
-- Fase 2: Estructura del Sitio
-    → Basic Site Structure
-- Fase 3: Auditoría de Contenido Existente
-    → Search Console for Existing Content
-    → Click Through Rate (CTR) Analysis
-    → Identify Content with Existing Authority
-- Fase 4: Reescritura de Páginas Existentes
-    → AI-Rewriting Pages
-- Reescritura de Homepage
-    → AI-Rewriting Pages
-- Filosofía de Keyword Research
-    → Keyword Research Philosophy
-- Content Planner
-    → Creating a Content Planner
-
----
-
 ## LECCIONES SIN ASIGNAR AÚN
 *(están en el curso pero no tienen sección en nuestro índice todavía)*
 
