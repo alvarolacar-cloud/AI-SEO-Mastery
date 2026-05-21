@@ -1,0 +1,13 @@
+# Vídeos (demasiado grandes para GitHub)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Sesión interna de Claude Code
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
