@@ -1,30 +1,36 @@
 # Índice — Rank a GBP: Sistema de Trabajo
 
+> **Leyenda de fuentes:**
+> - `[Curso]` → lección o PDF del curso AI SEO Mastery Pro (Caleb Ulku)
+> - `[Q&A]` → respuestas de Caleb Ulku / Miles Hayat en el tablón de la comunidad Skool
+
 ---
 
 ## 1. NUESTRO OBJETIVO
 └── GBP
-    → What Is Local SEO?
-    → Key Google Rank Factors
-    → How SEO Authority is Passed
-    → AI Overview in Search
-    → Types of GBP
+    → [Curso] What Is Local SEO?
+    → [Curso] Key Google Rank Factors
+    → [Curso] How SEO Authority is Passed
+    → [Curso] AI Overview in Search
+    → [Curso] Types of GBP
+    · [Q&A] SABs, dirección física, productos GBP, áreas de servicio
 
 ---
 
 ## 2. CÓMO IDENTIFICAMOS QUÉ HACER
 └── Auditoría
     - El Rank Map
-        → Rank Tracking
-        → Determining Local Rank Map Size
+        → [Curso] Rank Tracking
+        → [Curso] Determining Local Rank Map Size
+        · [Q&A] Calibración del grid, ejecución en horario laboral, ciudades vs zonas
     - Los 3 Supuestos
-        → 3 Phases of Local SEO
-        → How to Do Local AI SEO
+        → [Curso] 3 Phases of Local SEO
+        → [Curso] How to Do Local AI SEO
     - Toma de Decisiones
-        → GBP Audit
-        → GBP Landing Page Audit
-        → Identifying Low Competition
-        → Estimate Scope of Work
+        → [Curso] GBP Audit
+        → [Curso] GBP Landing Page Audit
+        → [Curso] Identifying Low Competition
+        → [Curso] Estimate Scope of Work
 
 ---
 
@@ -32,168 +38,178 @@
 
 ├── GBP
 │   ├── Cómo impacta el GBP
-│   │   → Types of GBP
-│   │   → Key Google Rank Factors
+│   │   → [Curso] Types of GBP
+│   │   → [Curso] Key Google Rank Factors
 │   └── Elementos
 │       - 2.0 Verificación
-│           → Verifying a GBP
+│           → [Curso] Verifying a GBP
+│           · [Q&A] Señales previas a la verificación, duplicados, industrias de riesgo
 │       - 2.1 Descripción
-│           → GBP Description
+│           → [Curso] GBP Description
 │       - 2.2 Servicios
-│           → GBP Services
+│           → [Curso] GBP Services
+│           · [Q&A] Servicios similares vs páginas separadas, servicios bloqueados por categoría
 │       - 2.3 Categorías
-│           → GBP Categories
+│           → [Curso] GBP Categories
+│           · [Q&A] Límite de categorías, categoría primaria, nombre GBP, modelos IA para categorías
 │       - 2.4 Cambios en el GBP
-│           → Making GBP Changes
+│           → [Curso] Making GBP Changes
+│           · [Q&A] Suspensiones, reseñas en PDF, "Needs Verification", áreas de servicio
 │       - 2.5 Re-Theming
-│           → Re-Theme'ing a GBP Category
+│           → [Curso] Re-Theme'ing a GBP Category
 │       - 2.6 Mantenimiento del GBP
-│           → All the Other GBP Boxes
-│           → Geotag Images
-│           → Upcoming Holiday Hours
-│           → [Update] Automated Calls
+│           → [Curso] All the Other GBP Boxes
+│           → [Curso] Geotag Images
+│           → [Curso] Upcoming Holiday Hours
+│           → [Curso] [Update] Automated Calls
 │       - 2.7 Posts del GBP
-│           → [Prompt] Endless GBP Posts
+│           → [Curso] [Prompt] Endless GBP Posts
 │
 ├── WEB
 │   ├── Cómo impacta el GBP
-│   │   → 3 Phases of Local SEO
-│   │   → How to Do Local AI SEO
+│   │   → [Curso] 3 Phases of Local SEO
+│   │   → [Curso] How to Do Local AI SEO
 │   └── Elementos
 │       - 2.1 Páginas
-│           → What is the Core 30?
-│           → How to Structure the Core 30
-│           → Core 30 Content Audit
-│           → Example Site for Core 30
-│           → Building More Topical Relevance
-│           → Building More Geographical Relevance
-│           → AI Content Prioritization - Geographic Relevance
+│           → [Curso] What is the Core 30?
+│           → [Curso] How to Structure the Core 30
+│           → [Curso] Core 30 Content Audit
+│           → [Curso] Example Site for Core 30
+│           → [Curso] Building More Topical Relevance
+│           → [Curso] Building More Geographical Relevance
+│           → [Curso] AI Content Prioritization - Geographic Relevance
 │       - 2.2 Arquitectura
-│           → How to Structure the Core 30
-│           → Structure for Multiple Locations
+│           → [Curso] How to Structure the Core 30
+│           → [Curso] Structure for Multiple Locations
+│           · [Q&A] Máx. 7 links desde home, anchor links, cambio de plataforma, URLs planas
 │       - 2.3 Estructura
-│           → How to Structure the Core 30
-│           → Structure for Multiple Locations
-│           → Creating an "About" Page
+│           → [Curso] How to Structure the Core 30
+│           → [Curso] Structure for Multiple Locations
+│           → [Curso] Creating an "About" Page
 │       - 2.4 Schema
-│           → Adding Schema
-│           → Local Business Schema
+│           → [Curso] Adding Schema
+│           → [Curso] Local Business Schema
 │       - 2.5 Links
-│           → Local Link Overview
-│           → Introduction to Backlinking
-│           → Local Authority Building
+│           → [Curso] Local Link Overview
+│           → [Curso] Introduction to Backlinking
+│           → [Curso] Local Authority Building
+│           · [Q&A] 1 link por página, validación vs autoridad, anchor text 1/3-1/3-1/3, LeadSnap citations
 │       - 2.6 Anchor Text Externo
-│           → External Anchor Text Guidelines
-│           → Internal Anchor Text Guidelines
+│           → [Curso] External Anchor Text Guidelines
+│           → [Curso] Internal Anchor Text Guidelines
 │       - 2.7 Búsqueda de Oportunidades de Enlace
-│           → Searching for Link Opportunities
+│           → [Curso] Searching for Link Opportunities
 │       - 2.8 Press Release Mensual
-│           → Monthly Google News Feature (Press Release)
+│           → [Curso] Monthly Google News Feature (Press Release)
 │       - 2.9 Blog Commenting
-│           → Blog Commenting
+│           → [Curso] Blog Commenting
 │       - 2.10 Construir con Lovable (Core 30)
-│           → Overview (Building a Core 30 Website in Lovable)
-│           → Prompt 0: Planning
-│           → Lovable HTML: NEEDED to Get Ranked
-│           → Prompt 1: Skeleton
-│           → Prompt 2: GBP Landing Page Content
-│           → Prompt 3: GBP Landing Page Build Out
-│           → Prompt 4: Secondary Category Page Build Out
-│           → Prompt 5: Core Service Page Build Out
-│           → Prompt 6: Service Page Build Out
-│           → Prompt 7: About and Contact Page Build Out
-│           → Prompt 8: Technical SEO Implementation
-│           → Walkthrough of Caleb's Build
+│           → [Curso] Overview (Building a Core 30 Website in Lovable)
+│           → [Curso] Prompt 0: Planning
+│           → [Curso] Lovable HTML: NEEDED to Get Ranked
+│           → [Curso] Prompt 1: Skeleton
+│           → [Curso] Prompt 2: GBP Landing Page Content
+│           → [Curso] Prompt 3: GBP Landing Page Build Out
+│           → [Curso] Prompt 4: Secondary Category Page Build Out
+│           → [Curso] Prompt 5: Core Service Page Build Out
+│           → [Curso] Prompt 6: Service Page Build Out
+│           → [Curso] Prompt 7: About and Contact Page Build Out
+│           → [Curso] Prompt 8: Technical SEO Implementation
+│           → [Curso] Walkthrough of Caleb's Build
 │       - 2.11 Auditoría Técnica
-│           → Technical Audit
+│           → [Curso] Technical Audit
 │
 ├── RESEÑAS
 │   ├── Cómo impacta el GBP
-│   │   → Get More Reviews
+│   │   → [Curso] Get More Reviews
 │   └── Elementos
 │       - 2.1 Respuestas a Reseñas
-│           → Get More Reviews
+│           → [Curso] Get More Reviews
+│           · [Q&A] Reseñas como conversión vs ranking, 4.7-4.9 ideal, ChatGPT ama Reddit
 │       - 2.2 Embed de Reseñas en la Web
 │           → (sin lección específica)
 │       - 2.3 Volumen de Reseñas
-│           → Get More Reviews
+│           → [Curso] Get More Reviews
 │
 ├── E-E-A-T
 │   ├── Cómo impacta el GBP
-│   │   → What is E-E-A-T?
-│   │   → Ethics: E-E-A-T Authorship Method
+│   │   → [Curso] What is E-E-A-T?
+│   │   → [Curso] Ethics: E-E-A-T Authorship Method
 │   └── Elementos
 │       - 2.1 About Page
-│           → Creating an "About" Page
+│           → [Curso] Creating an "About" Page
 │       - 2.2 Credenciales y Prueba Social
-│           → What is E-E-A-T?
-│           → Ethics: E-E-A-T Authorship Method
+│           → [Curso] What is E-E-A-T?
+│           → [Curso] Ethics: E-E-A-T Authorship Method
 │
 ├── REDES SOCIALES
 │   ├── Cómo impacta el GBP
-│   │   → Social Signals
+│   │   → [Curso] Social Signals
 │   └── Elementos
 │       - 2.1 Perfiles Activos
-│           → Social Signals
+│           → [Curso] Social Signals
 │       - 2.2 Señales Sociales
-│           → Social Signals
+│           → [Curso] Social Signals
 │
 └── OPTIMIZACIÓN PARA IA
     ├── Cómo impacta el GBP
-    │   → How ChatGPT Makes Recommendations
-    │   → Data Source: ChatGPT VS. Google
+    │   → [Curso] How ChatGPT Makes Recommendations
+    │   → [Curso] Data Source: ChatGPT VS. Google
     └── Elementos
         - 2.1 Super Citations
-            → Proving Business Legitimacy
+            → [Curso] Proving Business Legitimacy
+            · [Q&A] Bing for Business, señales de legitimidad para ChatGPT, proximidad vs confianza
         - 2.2 Comprobar Visibilidad en ChatGPT
-            → How to Check Business Visibility
+            → [Curso] How to Check Business Visibility
         - 2.3 Menciones de Calidad
-            → High Quality Mentions
+            → [Curso] High Quality Mentions
         - 2.4 Schema Avanzado para IA
-            → Create Even More Schema
+            → [Curso] Create Even More Schema
         - 2.5 Diversificación de Reseñas
-            → Review Diversification and Specificity: Attributes
+            → [Curso] Review Diversification and Specificity: Attributes
         - 2.6 Reddit
-            → Reddit Optimization
+            → [Curso] Reddit Optimization
 
 ---
 
 ## 4. CÓMO GESTIONAMOS EL SISTEMA
 - Onboarding de Clientes
-    → Onboarding Clients
-    → Client Access We Request
-    → GBP Audit
-    → GBP Landing Page Audit
+    → [Curso] Onboarding Clients
+    → [Curso] Client Access We Request
+    → [Curso] GBP Audit
+    → [Curso] GBP Landing Page Audit
 - Tracking y Entregables
-    → Client Deliverables Walkthrough
-    → 60 Day Internal Task Tracker
+    → [Curso] Client Deliverables Walkthrough
+    → [Curso] 60 Day Internal Task Tracker
 - Estimación de Scope
-    → Estimate Scope of Work
-    → [Tool] Scope Based Pricing
+    → [Curso] Estimate Scope of Work
+    → [Curso] [Tool] Scope Based Pricing
 - Producción de Contenido
-    → Caleb's Internal Team's Copywriting System
-    → Human Editing of AI Articles
-    → Creating the Content Brief
-    → Setting Up Claude Projects
-    → Outbound Authority Links
-    → Internal Anchor Text Guidelines
-    → Generating Metadata
-    → [Tool] Page Optimizer Pro
+    → [Curso] Caleb's Internal Team's Copywriting System
+    → [Curso] Human Editing of AI Articles
+    → [Curso] Creating the Content Brief
+    → [Curso] Setting Up Claude Projects
+    → [Curso] Outbound Authority Links
+    → [Curso] Internal Anchor Text Guidelines
+    → [Curso] Generating Metadata
+    → [Curso] [Tool] Page Optimizer Pro
+    · [Q&A] Ritmo de publicación, detección IA, contenido de blog vs páginas de servicio, POP al 80%
 - Mantenimiento Mensual
-    → Reduce Client Churn
+    → [Curso] Reduce Client Churn
+    · [Q&A] Reportes mensuales, nav bar, llamadas perdidas, productos GBP
 - Herramientas Recomendadas
-    → Recommended Tools
+    → [Curso] Recommended Tools
 
 ---
 
 ## 6. CASOS ESPECIALES
 - YMYL — Your Money or Your Life
-    → YMYL-Niche Sites
+    → [Curso] YMYL-Niche Sites
 - Sitemap
-    → When to Use a Sitemap
+    → [Curso] When to Use a Sitemap
 - NoFollow en Enlaces
-    → NoFollow Attributes on Links
+    → [Curso] NoFollow Attributes on Links
 - Ocultar Contenido
-    → Hiding Content from Users
+    → [Curso] Hiding Content from Users
 - Disavow de Backlinks
-    → Disavowing Existing Backlinks
+    → [Curso] Disavowing Existing Backlinks

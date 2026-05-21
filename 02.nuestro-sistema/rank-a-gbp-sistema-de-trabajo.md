@@ -1,5 +1,9 @@
 # Rank a GBP — Sistema de Trabajo
 
+> **Fuentes:**
+> - `[Curso]` — AI SEO Mastery Pro de Caleb Ulku (lecciones, PDFs y transcripciones)
+> - `[Q&A]` — Tablón de la comunidad Skool: respuestas de Caleb Ulku y Miles Hayat
+
 ---
 
 # BLOQUE 1: NUESTRO OBJETIVO
@@ -44,7 +48,7 @@ Una web, varios GBPs. Cada GBP necesita su propia landing page independiente por
 #### 3. Service Area Business (SAB)
 Negocio sin dirección física visible. Requiere **30-50% más esfuerzo** para rankear que un negocio con dirección. En la práctica, el coste adicional de un engagement SAB suele ser mayor que el coste de alquilar un pequeño espacio físico.
 
-**Notas de campo (Caleb):**
+**Notas de Campo — Q&A:**
 - Los SAB pueden rankear, pero la lucha es real y los resultados son menos predecibles. Roofing, construction, fencing son SAB pero muchos tienen oficina física — si el cliente tiene cualquier dirección física donde pueda registrarse, úsala. Agregar una dirección física a un SAB puede mostrar mejoras dramáticas en rankings en días.
 - Un negocio con dirección física (storefront) **NO debe tener áreas de servicio configuradas** en el GBP. Google lo ve como contradictorio — eres o un storefront o un SAB, no ambos. Tener áreas de servicio en un negocio con dirección puede activar re-verificación o suspensión.
 - Los productos GBP y las áreas de servicio tienen impacto **CERO** en el ranking del mapa. No son factores de ranking.
@@ -133,7 +137,7 @@ Se configura en Leadsnap y se programa para correr automáticamente cada dos sem
 | **Links** | Cada URL nueva que creas en la web necesita un enlace externo. El rank map te dice si esas URLs están generando impacto |
 | **Gestión del sistema** | El rank map es el entregable visual más poderoso para el cliente — antes y después en verde habla por sí solo |
 
-#### Notas de Campo (Caleb)
+#### Notas de Campo — Q&A
 
 - **Solo ejecutar rank maps para la categoría primaria + 2-3 servicios críticos.** No para todos los keywords posibles — genera ruido en los datos.
 - **Ejecutar rank maps siempre durante horario comercial.** Google penaliza rankings cuando el negocio está cerrado; los scans fuera de horario dan datos inexactos.
@@ -311,7 +315,7 @@ El método estándar para GBPs nuevos es la **verificación por vídeo**. Google
 14. Cambia a otra ventana/pestaña mostrando la web
 15. Fin del vídeo
 
-##### Notas de Campo (Caleb)
+##### Notas de Campo — Q&A
 
 - Google es más propenso a ofrecer opciones de verificación no-video cuando: (1) la cuenta está conectada al negocio mediante Google Workspace + GSC + GA; (2) el negocio ya existe en el ecosistema de Google (citas, reseñas, actividad en Maps); (3) hay señales consistentes en la web. Estrategia previa: NAP en footer, página de Facebook Business con mismo NAP, listados en Yelp/Bing Places/BBB usando el email del dominio, conectar GSC y GA — luego reclamar el GBP.
 - Si hay dos GBPs activos para el mismo negocio (duplicado no deseado), resuelve el duplicado **antes** de hacer la verificación en video. Tener dos GBPs simultáneos es una señal negativa para Google.
@@ -373,7 +377,7 @@ Los servicios del GBP son los keywords con los que el negocio quiere aparecer en
 
 4. Sube los servicios validados al GBP desde Leadsnap
 
-##### Notas de Campo (Caleb/Miles)
+##### Notas de Campo — Q&A
 
 - Aunque dos servicios parezcan similares (ej. "Gas Boiler Repair" vs "Gas Boiler Installation"), si aparecen como servicios separados en el GBP, necesitan páginas dedicadas en la web. Cada servicio tiene intención de búsqueda diferente y refuerza la autoridad topical de su categoría.
 - Algunos servicios están bloqueados según la categoría GBP seleccionada. Si un servicio no aparece como opción bajo ninguna categoría disponible, la solución es agregar categorías secundarias que sí permitan esos servicios, o usar re-theming.
@@ -407,7 +411,7 @@ Para identificar las categorías disponibles se usa **GMB Everywhere → Categor
 3. Selecciona hasta 5 categorías secundarias que complementen la principal
 4. Añade las categorías desde Leadsnap, de una en una si el GBP ya tiene rankings (ver 2.4 Cambios)
 
-##### Notas de Campo (Caleb)
+##### Notas de Campo — Q&A
 
 - **No maxes las categorías automáticamente.** Solo añade categorías para las cuales puedes crear una página de sitio web con contenido real. 4-5 categorías bien respaldadas superan a 10 sin respaldo de contenido.
 - **La categoría primaria es la más importante** — debe coincidir con lo que los clientes buscan, no solo lo que describe el negocio. Espera un golpe temporal en rankings cuando la cambias.
@@ -454,7 +458,7 @@ Cada modificación en el GBP puede activar los sistemas de verificación de Goog
 4. Para cambios de alto riesgo: asegúrate de que el cliente está preparado para una posible suspensión temporal y tienes capacidad para gestionar la re-verificación
 5. Si el GBP ya rankea en top 3 en alguna zona: no hagas cambios sin una razón muy sólida
 
-##### Notas de Campo (Caleb) — Suspensiones
+##### Notas de Campo — Q&A — Suspensiones
 
 - Las suspensiones pueden dispararse por ediciones simples, incluyendo cambiar la descripción de servicios. Proceder siempre con cautela.
 - **Guardar capturas de todas las reseñas como PDF periódicamente** — si el perfil se suspende, las widgets de reseñas dinámicas dejan de funcionar y no puedes acceder a ellas.
@@ -781,7 +785,7 @@ Cada URL, sin excepción, debe tener al menos un enlace externo para que Google 
 2. El Hub de Localizaciones enlaza a todas las páginas de landmarks
 3. Cada página de landmark enlaza de vuelta al Hub de Localizaciones y a la página de servicio o Home que quieres reforzar
 
-##### Notas de Campo (Caleb)
+##### Notas de Campo — Q&A
 
 - **La homepage no debe enlazar a más de 7 páginas.** La jerarquía es: Home → Categorías (bidireccional) → Servicios (bidireccional). No hacer cross-linking entre silos de diferentes categorías.
 - **Los anchor links (#section) no son suficientes.** El GBP debe enlazar a páginas con sus propias URLs, no a secciones de una sola página. El beneficio de relevancia que Google pasa del GBP al sitio requiere páginas reales.
@@ -983,7 +987,7 @@ Cada 4-5 meses, opcionalmente:
 | **GBP** | Los enlaces de autoridad (Tipo 2) refuerzan la confianza del dominio entero, lo que impacta directamente en el ranking del GBP |
 | **E-E-A-T** | Los enlaces de sponsorship local también construyen señales de negocio real y presencia en la comunidad |
 
-##### Notas de Campo (Caleb)
+##### Notas de Campo — Q&A
 
 - **Cada página publicada necesita al menos 1 backlink externo** para ser indexada y pasar relevancia. Regla: 1 link de validación (PBN/blog) por cada página publicada.
 - **Los links de validación (PBN) no necesitan ser relevantes al nicho.** Un abogado puede recibir un link de validación de un sitio sobre belleza. Son solo para indexación y señal básica. Los links de relevancia topical sí deben ser del nicho.
@@ -1328,7 +1332,7 @@ La lógica de las keywords en las respuestas es simple: si un cliente escribe un
    - Un elemento personalizado que demuestre que has leído su reseña
 5. Usa IA para generar respuestas únicas a escala — dale el texto de la reseña y pídele una respuesta que incluya el servicio y la ciudad
 
-##### Notas de Campo (Caleb)
+##### Notas de Campo — Q&A
 
 - **Las reseñas son principalmente un factor de CONVERSIÓN, no de ranking.** Hay plomeros con 10.000 reseñas rankeando en posición 15. Lo que sí importa: tener al menos algunas reseñas para credibilidad, responder en 48h, y mantener 4.7+ para ChatGPT.
 - **Un rating perfecto de 5 estrellas puede perjudicar conversiones** — parece falso a los consumidores. Un 4.7-4.9 convierte mejor.
@@ -1665,7 +1669,7 @@ Leadsnap crea un mirror exacto del GBP en cada plataforma, eliminando los proces
 4. Ejecuta la sincronización — Leadsnap distribuye el listing a todas las plataformas via API
 5. Verifica que Bing for Business y Apple Maps se han actualizado (son los más críticos para ChatGPT)
 
-##### Notas de Campo (Caleb)
+##### Notas de Campo — Q&A
 
 - **Bing for Business es crítico para ChatGPT** — ChatGPT fue entrenado en el índice de Bing. Es uno de los primeros elementos del AI Visibility Stack.
 - ChatGPT está generando 20 millones de referrals mensuales, creciendo 20% mensual. Caso real documentado: trabajo de HVAC de $8.000 vino de una recomendación de ChatGPT.
@@ -2270,7 +2274,7 @@ Herramienta de $34/mes (20 informes/mes) que analiza el contenido contra los com
 | **Links** | Los pasos 10-12 del workflow aseguran que cada artículo tiene su enlace externo de autoridad |
 | **Tracking** | El ZeroGPT score y el enlace externo se registran en la hoja de tracking por entregable |
 
-#### Notas de Campo (Caleb)
+#### Notas de Campo — Q&A
 
 - **Publicar en lotes de máximo 5-10 artículos por mes.** No publicar todo el día 1. El ritmo importa.
 - **Las herramientas de detección de IA son basura.** Target ~60% de "humanidad" y sigue adelante. No pierdas tiempo persiguiendo un score perfecto.
@@ -2306,7 +2310,7 @@ Una vez que el mapa está verde, el trabajo no termina — cambia. El objetivo p
 - Responder a todas las reseñas nuevas
 - Subir fotos nuevas al GBP de forma regular
 
-### Notas de Campo (Caleb)
+### Notas de Campo — Q&A
 
 - **Caleb no hace reportes mensuales para clientes de SEO local.** El rank map cada dos semanas es el reporte. Para clientes de non-local SEO sí hace reportes con métricas orgánicas.
 - **La navegación del sitio (nav bar) es "prioridad #86"** para SEO local. No pelear con clientes por la nav bar — enfocarse en el ranking del GBP.
