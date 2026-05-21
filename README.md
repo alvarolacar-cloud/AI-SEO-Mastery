@@ -58,10 +58,10 @@ El diagnóstico siempre lo da el rank map (Leadsnap). La acción siempre sigue l
 
 ## Documento principal del sistema
 
-El documento operativo completo está en el Desktop:
-`Rank a GBP — Sistema de Trabajo.md`
+El documento operativo completo está en:
+`02.nuestro-sistema/rank-a-gbp-sistema-de-trabajo.md`
 
-Ese archivo es el hub central — todo lo que hay en este repo está destilado allí en formato sistema de trabajo accionable.
+Es el hub central — todo lo que hay en este repo está destilado allí en formato sistema de trabajo accionable. Editar directamente en el repo; no hay copia externa.
 
 ---
 
