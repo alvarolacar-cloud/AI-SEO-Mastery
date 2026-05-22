@@ -14,3 +14,11 @@ __pycache__/
 
 # Obsidian
 .obsidian/
+
+# Fuentes externas (no son nuestro contenido)
+Fuentes/Matteo/
+Fuentes/Indio Pesado/
+Fuentes/Telegram/
+
+# Node modules
+node_modules/
