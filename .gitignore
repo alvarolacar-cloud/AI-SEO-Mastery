@@ -16,9 +16,9 @@ __pycache__/
 .obsidian/
 
 # Fuentes externas (no son nuestro contenido)
-Fuentes/Matteo/
-Fuentes/Indio Pesado/
-Fuentes/Telegram/
+Fuentes/_Matteo/
+Fuentes/_Indio Pesado/
+Fuentes/_EduLaborda/
 
 # Node modules
 node_modules/
