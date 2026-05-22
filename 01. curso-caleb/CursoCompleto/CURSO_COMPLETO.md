@@ -1160,6 +1160,1471 @@ This lesson also covers sitemap.xml generation, meta tag verification, and schem
 
 ---
 
+## 8.1 Walkthrough of Caleb's Build
+
+Esta lección es un video de demostración (7 min 22 sec) en el que Caleb muestra en pantalla el sitio web que construyó usando los prompts del módulo "Building a Core 30 Website". No tiene transcripción escrita — el contenido es exclusivamente visual/walkthrough. Para verlo, acceder directamente a la lección en Skool.
+
+---
+
+## 9.1 Introduction to Backlinking
+
+Los backlinks son la segunda señal de ranking más importante después de la relevancia topical. Actúan como votos de confianza: cuando un sitio con autoridad enlaza al tuyo, le indica a Google que tu contenido es valioso y digno de rankear.
+
+**Por qué importan los backlinks:**
+- Aumentan la autoridad de dominio (Domain Rating / DR)
+- Ayudan a Google a descubrir y rastrear nuevas páginas
+- Transfieren "link equity" (PageRank) al sitio enlazado
+- Sitios con más backlinks de calidad tienden a rankear más alto
+
+**Calidad vs. Cantidad:**
+- Un backlink de un sitio DR 70 vale más que 100 de sitios DR 5
+- Los backlinks de sitios relevantes a tu nicho valen más
+- Los backlinks de sitios con spam pueden perjudicar tu ranking
+- Enfócate siempre en calidad sobre cantidad
+
+**Tipos de backlinks:**
+- **Dofollow:** transfieren link equity — los más valiosos
+- **Nofollow:** no transfieren link equity directamente, pero tienen valor indirecto (tráfico, diversidad del perfil)
+- **UGC (User Generated Content):** comentarios, foros
+- **Sponsored:** enlaces pagados, deben marcarse
+
+**Estrategias principales de link building:**
+1. Creación de contenido de alta calidad que otros quieran enlazar naturalmente
+2. Guest posting en sitios relevantes del nicho
+3. Menciones de marca sin enlace → convertirlas en backlinks
+4. Directorios y citas de negocios locales
+5. Construcción de relaciones con otros sitios web
+
+**Regla de oro:** Nunca publiques contenido sin asegurar al menos un enlace externo hacia él. Sin validación externa, Google no tiene señal de que tu contenido aporta valor.
+
+---
+
+## 9.2 External Anchor Text Guidelines
+
+El anchor text (texto ancla) de un backlink es una de las señales más importantes para Google. Usarlo incorrectamente puede resultar en penalizaciones de Penguin.
+
+**Tipos de anchor text:**
+
+| Tipo | Ejemplo | Frecuencia recomendada |
+|------|---------|------------------------|
+| Branded | "Caleb's Plumbing" | ~40-50% |
+| URL desnuda | "calebsplumbing.com" | ~15-20% |
+| Genérico | "haz clic aquí", "más información" | ~10-15% |
+| Partial match | "plumber in Austin" | ~10-15% |
+| Exact match | "Austin plumber" | ~5-10% máximo |
+
+**Reglas críticas:**
+- **Nunca** construyas demasiados enlaces exact-match — activa filtros de spam
+- La naturalidad es la clave: un perfil diverso parece orgánico
+- El branded anchor es siempre seguro — úsalo con más frecuencia
+- El anchor text genérico ("read more", "click here") es seguro y natural
+- Long-tail anchors ("best emergency plumber in Austin TX") son más seguros que exact match cortos
+
+**Señales de alarma:**
+- Perfil de anchors con 80%+ exact match → riesgo de penalización
+- Todos los backlinks con el mismo anchor → patrón manipulador
+- Backlinks de sitios irrelevantes con anchors exact match → señal negativa
+
+**Proceso recomendado:**
+1. Audita tu perfil actual de anchor text con Ahrefs o Semrush
+2. Calcula el porcentaje de cada tipo
+3. Si tienes demasiado exact match, diversifica con backlinks branded/genéricos
+4. Mantén un registro de todos los backlinks que construyes
+
+---
+
+## 9.3 Local Authority Building
+
+Para negocios locales, la autoridad se construye a través de señales específicas que confirman la ubicación y legitimidad del negocio.
+
+**Citas y directorios locales:**
+- Las citas son menciones del negocio en otros sitios (nombre, dirección, teléfono — NAP)
+- Consistencia NAP es crítica: el nombre, dirección y teléfono deben ser exactamente iguales en todos lados
+- Directorios prioritarios: Google Business Profile, Yelp, BBB, Angie's List, HomeAdvisor, directorios de la industria
+
+**Estrategia de construcción de autoridad local:**
+1. **Tier 1:** Directorios de alta autoridad (Yelp, BBB, Yellow Pages, Angie's List)
+2. **Tier 2:** Directorios específicos de la industria (p.ej. para plomeros: Plumbers.com, HomeAdvisor)
+3. **Tier 3:** Directorios locales (Cámara de Comercio local, directorios de la ciudad)
+4. **Tier 4:** Blogs y medios locales (periódicos de la ciudad, blogs de vecindarios)
+
+**Técnica de "barnacle SEO":**
+- Busca sitios con alta autoridad que ya rankean para tus palabras clave objetivo
+- Crea un perfil/listing en esos sitios
+- Aprovecha su autoridad existente para aparecer en búsquedas locales
+
+**Señales de confianza local:**
+- Reviews en múltiples plataformas (no solo Google)
+- Menciones en medios locales
+- Participación en eventos comunitarios con cobertura online
+- Asociaciones con otras empresas locales reconocidas
+
+---
+
+## 9.4 Searching for Link Opportunities
+
+Encontrar oportunidades de backlinks requiere un proceso sistemático. Los mejores links son los que los competidores ya tienen o los que surgen naturalmente de tu nicho.
+
+**Método 1: Análisis de competidores**
+1. Identifica tus 3-5 competidores principales
+2. Analiza sus backlinks con Ahrefs o Semrush
+3. Busca patrones: ¿de qué tipo de sitios obtienen links?
+4. Replica las oportunidades más accesibles
+5. Busca sitios que enlacen a múltiples competidores — esos son los más valiosos
+
+**Método 2: Búsquedas de Google con operadores avanzados**
+
+Ejemplos de búsquedas:
+- `"[nicho]" + "write for us"` → sitios que aceptan guest posts
+- `"[nicho]" + "submit a guest post"`
+- `"[ciudad]" + "recursos locales" + "[categoría]"`
+- `intitle:"[keyword]" inurl:links` → páginas de recursos
+
+**Método 3: Menciones sin enlace**
+1. Busca menciones de tu marca en Google sin que incluyan un link
+2. Contacta al webmaster para solicitar que conviertan la mención en enlace
+3. Herramientas: Google Alerts, Mention.com, Ahrefs Content Explorer
+
+**Método 4: Link Intersect**
+- Usa Ahrefs o Semrush para encontrar sitios que enlazan a tus competidores pero no a ti
+- Estas son tus oportunidades más directas
+- Crea contenido mejor que el de tus competidores y contacta esos sitios
+
+**Criterios de calidad para evaluar oportunidades:**
+- Domain Rating (DR) mínimo recomendado: 20+
+- Tráfico orgánico real (no solo DR alto sin tráfico)
+- Relevancia temática del sitio
+- No estar en redes de link schemes o PBNs
+
+---
+
+## 9.5 Monthly Google News Feature / Press Release
+
+Aparecer en Google News y publicar press releases regularmente es una táctica de link building y visibilidad que funciona especialmente bien para negocios locales.
+
+**Por qué funciona:**
+- Google News tiene alta autoridad y aparece en las primeras posiciones
+- Los press releases crean backlinks desde sitios de noticias con alta DA
+- Establece autoridad y credibilidad para el negocio
+- Puede generar cobertura adicional de periodistas y bloggers
+
+**Proceso mensual de press release:**
+
+**Paso 1: Identificar el ángulo de la noticia**
+- Nuevos servicios o productos lanzados
+- Premios o reconocimientos recibidos
+- Participación en eventos comunitarios
+- Contrataciones importantes o expansiones
+- Resultados notables (número de clientes atendidos, proyectos completados)
+
+**Paso 2: Escribir el press release**
+Estructura estándar:
+```
+TITULAR (con keyword principal)
+Subtítulo complementario
+
+CIUDAD, Estado — Fecha — Párrafo de apertura (quién, qué, cuándo, dónde, por qué)
+
+Cuerpo (2-3 párrafos con detalles)
+
+Cita del propietario/portavoz
+
+Boilerplate (descripción estándar del negocio)
+
+Información de contacto
+```
+
+**Paso 3: Distribución**
+- Servicios de distribución: PRWeb, PR Newswire, EIN Presswire, GlobeNewswire
+- Algunos servicios gratuitos: PR.com, OpenPR
+- Envío directo a periodistas locales y medios de la ciudad
+
+**Paso 4: Seguimiento**
+- Monitorear cobertura con Google Alerts
+- Verificar backlinks generados con Ahrefs
+
+**Frecuencia:** Una vez al mes es suficiente para mantener una presencia consistente sin crear contenido repetitivo.
+
+---
+
+## 9.6 Blog Commenting
+
+Los comentarios en blogs son una táctica de link building de bajo nivel pero legítima cuando se hace correctamente. No es la táctica más poderosa, pero contribuye a la diversidad del perfil de backlinks.
+
+**La diferencia entre spam y valor genuino:**
+- **Spam:** "Great post! Check out my website: [link]"
+- **Valor genuino:** Un comentario que añade perspectiva, hace una pregunta relevante, o comparte experiencia relacionada con el tema del artículo
+
+**Cómo hacer blog commenting correctamente:**
+
+1. **Encuentra blogs relevantes** en tu nicho con posts recientes y activos
+2. **Lee el artículo completo** antes de comentar — nunca comentes sin leer
+3. **Añade valor real** — responde a un punto del artículo, comparte una experiencia, haz una pregunta inteligente
+4. **Usa tu nombre real** o el del negocio, no keywords como anchor text en el campo de nombre
+5. **Incluye URL** de tu sitio en el campo correspondiente (no en el texto del comentario)
+6. **Sé consistente** — comenta regularmente en los mismos blogs para construir relaciones
+
+**Qué evitar:**
+- Comentarios genéricos ("Nice article!", "Very helpful!")
+- Usar keywords como nombre ("Best Plumber Austin TX")
+- Comentar solo en posts muy antiguos
+- Más de 1-2 comentarios por sitio al mes
+
+**Valor esperado:**
+- La mayoría de los links de comentarios son nofollow
+- El valor real es: diversidad del perfil, tráfico de referencia, y relaciones con webmasters
+- No esperes grandes mejoras de ranking solo con esta táctica
+
+**Escala sugerida:** 10-20 comentarios de calidad al mes como parte de una estrategia más amplia.
+
+---
+
+## 9.7 Social Signals
+
+Las señales sociales son métricas de engagement en redes sociales: likes, shares, comentarios, menciones. Aunque Google ha declarado que no usa directamente las redes sociales como señal de ranking, existe correlación entre fuerte presencia social y buenos rankings.
+
+**Por qué importan las señales sociales:**
+- Ayudan a Google a descubrir nuevo contenido más rápido
+- Los shares generan tráfico que puede convertirse en backlinks naturales
+- Construyen autoridad de marca que impacta las búsquedas de branded keywords
+- Crean señales de E-E-A-T indirectas (experiencia, expertise, autoridad, confianza)
+
+**Plataformas prioritarias según el tipo de negocio:**
+
+| Tipo de negocio | Plataformas principales |
+|-----------------|------------------------|
+| Local/Servicios | Facebook, Nextdoor, Google Business |
+| B2B | LinkedIn, Twitter/X |
+| Visual (restaurantes, diseño) | Instagram, Pinterest |
+| Jóvenes adultos | TikTok, Instagram |
+| Técnico/DIY | YouTube, Reddit |
+
+**Estrategia de señales sociales:**
+
+1. **Perfil completo y optimizado** en las plataformas relevantes (nombre, descripción, URL del sitio, categoría)
+2. **Contenido consistente** — al menos 3-4 posts por semana en las plataformas prioritarias
+3. **Compartir contenido del sitio** — cada nuevo artículo o página debe compartirse en redes
+4. **Engagement activo** — responder comentarios, participar en conversaciones
+5. **Compartir en grupos relevantes** — grupos de Facebook, comunidades de Reddit relacionadas con el nicho
+
+**Técnica de Social Bookmarking:**
+- Plataformas como Reddit, Quora, Mix permiten compartir contenido con backlinks
+- No es spam si el contenido es genuinamente útil para la comunidad
+- Quora es especialmente valioso: responde preguntas relacionadas con tu nicho e incluye un link cuando sea relevante
+
+**Automatización responsable:**
+- Buffer, Hootsuite, Later para programar posts
+- Nunca automatices el engagement (respuestas, likes) — debe ser genuino
+- Mantén consistencia: mejor 3 posts regulares que 10 en un día y silencio por semanas
+
+---
+
+## 10.1 How ChatGPT Makes Recommendations
+
+Para que un negocio aparezca en las recomendaciones de ChatGPT, es necesario entender cómo el modelo decide qué mencionar.
+
+**El mecanismo de recomendación de ChatGPT:**
+ChatGPT genera recomendaciones basándose en patrones aprendidos durante el entrenamiento con datos de internet. No busca en tiempo real — trabaja con lo que "memorizó" durante el proceso de entrenamiento. Esto significa que:
+
+- Los negocios con más menciones online tienen más probabilidades de aparecer
+- La calidad y autoridad de las fuentes que te mencionan importa
+- La consistencia de la información sobre tu negocio en múltiples fuentes refuerza la presencia
+- Los textos descriptivos claros que explican qué hace el negocio se "memorizan" mejor
+
+**Factores que influyen en las recomendaciones:**
+1. **Volumen de menciones** — cuántas veces aparece el negocio en distintas fuentes
+2. **Calidad de las fuentes** — menciones en sitios de alta autoridad (periódicos, directorios líderes, Wikipedia)
+3. **Consistencia de la información** — nombre, descripción y especialidades descritas de forma similar en múltiples sitios
+4. **Contexto semántico** — el negocio aparece mencionado junto a las palabras clave relevantes de su industria
+5. **Reviews y testimonios** — texto de reviews con keywords descriptivos del servicio
+
+**Implicación práctica:**
+Optimizar para ChatGPT requiere construir una presencia online amplia y consistente — exactamente la misma estrategia que mejora el SEO tradicional. No hay un truco especial: se trata de ser genuinamente visible y bien descrito en internet.
+
+---
+
+## 10.2 Data Source: ChatGPT VS. Google
+
+ChatGPT y Google utilizan fuentes de datos fundamentalmente diferentes para generar sus respuestas.
+
+**Google:**
+- Rastrea e indexa páginas web en tiempo real (o casi real)
+- Usa señales de ranking complejas: backlinks, relevancia, E-E-A-T, velocidad, UX
+- Muestra resultados basados en la intención de búsqueda del usuario
+- Sus resultados reflejan el estado actual de la web
+
+**ChatGPT:**
+- Entrenado con un corpus estático de datos de internet hasta una fecha de corte
+- No accede a internet en tiempo real (en su versión base)
+- Genera texto basado en patrones estadísticos del entrenamiento
+- Sus "recomendaciones" son el resultado del volumen y calidad de texto que asocia con un negocio o servicio
+
+**Implicaciones para la estrategia SEO/AIO:**
+
+| Aspecto | Google | ChatGPT |
+|---------|--------|---------|
+| Actualización | En tiempo real | Fecha de corte del modelo |
+| Fuentes | Cualquier página indexable | Texto de alta calidad del corpus de entrenamiento |
+| Señal principal | Backlinks + relevancia | Volumen + calidad de menciones |
+| Localización | Muy específica (mapas, IPs) | Limitada a lo mencionado en el texto |
+| Verificación | Puede rastrear y verificar | No puede verificar en tiempo real |
+
+**Estrategia para ambos canales:**
+- Crear contenido de alta calidad que sea rastreado por Google Y usado como fuente de entrenamiento por modelos de IA
+- Conseguir menciones en publicaciones de alta autoridad (más peso en el corpus de entrenamiento)
+- Mantener NAP consistente y descripciones claras del negocio en múltiples plataformas
+
+---
+
+## 10.3 How to Check Business Visibility
+
+Antes de optimizar, es necesario saber exactamente cómo aparece (o no aparece) el negocio en ChatGPT y otros sistemas de IA.
+
+**Proceso de auditoría de visibilidad en ChatGPT:**
+
+**Paso 1: Preguntas directas por nombre**
+```
+"¿Conoces el negocio [Nombre del Negocio] en [Ciudad]?"
+"¿Qué puedes decirme sobre [Nombre del Negocio]?"
+"¿Es [Nombre del Negocio] un buen [tipo de negocio] en [Ciudad]?"
+```
+
+**Paso 2: Preguntas por categoría y ubicación**
+```
+"¿Cuáles son los mejores [tipo de negocio] en [Ciudad, Estado]?"
+"Recomiéndame un [tipo de negocio] en [Ciudad]"
+"¿A qué [tipo de negocio] debería ir en [Ciudad]?"
+```
+
+**Paso 3: Preguntas por problema/necesidad**
+```
+"Necesito [servicio específico] en [Ciudad]. ¿A quién recomiendas?"
+"¿Quién hace [servicio] en [Ciudad]?"
+```
+
+**Interpretación de resultados:**
+- **Aparece con información correcta:** excelente — mantener y reforzar
+- **Aparece con información incorrecta:** urgente — corregir en todas las fuentes online
+- **No aparece:** necesita más menciones y visibilidad online
+- **Aparece competidores pero no el negocio:** analizar qué tienen ellos que tú no
+
+**Herramientas adicionales:**
+- Probar en múltiples LLMs: ChatGPT, Claude, Gemini, Perplexity, Bing Copilot
+- Documentar respuestas para comparación futura
+- Repetir la auditoría cada 3-6 meses
+
+---
+
+## 10.4 Proving Business Legitimacy
+
+Para que los sistemas de IA y Google consideren un negocio como legítimo y digno de recomendar, debe tener una "huella digital" sólida que demuestre su existencia y operación real.
+
+**Los pilares de la legitimidad online:**
+
+**1. Google Business Profile completo y verificado**
+- Verificación por correo, video o llamada
+- Descripción completa con keywords naturales
+- Todas las categorías relevantes
+- Fotos de alta calidad (exterior, interior, equipo, trabajo)
+- Respuestas a todas las reviews
+
+**2. Sitio web con señales de confianza**
+- Dirección física completa (no solo ciudad)
+- Número de teléfono verificable
+- Páginas "About Us" y "Contact" completas
+- Certificaciones, licencias, seguros mencionados
+- Fotos reales del equipo y las instalaciones
+- Schema markup de LocalBusiness con todos los campos
+
+**3. Presencia consistente en directorios**
+- NAP (Name, Address, Phone) idéntico en todas las plataformas
+- Mínimo 20-30 citas en directorios relevantes
+- Perfiles activos en las principales plataformas del nicho
+
+**4. Reviews auténticas y diversas**
+- Reviews en múltiples plataformas (no solo Google)
+- Combinación de 4 y 5 estrellas (las reviews perfectas parecen falsas)
+- Reviews con texto descriptivo sobre el servicio específico
+- Respuestas del propietario a las reviews
+
+**5. Menciones en medios externos**
+- Artículos en periódicos o blogs locales
+- Press releases distribuidos
+- Menciones en sitios de la industria
+
+**Señales de alerta que dañan la legitimidad:**
+- NAP inconsistente entre plataformas
+- Solo reviews de 5 estrellas con texto genérico
+- Sitio web sin información de contacto real
+- Sin fotos reales del negocio
+- Categorías de GBP incorrectas o genéricas
+
+---
+
+## 10.5 High Quality Mentions
+
+No todas las menciones tienen el mismo valor. Las menciones de alta calidad son las que provienen de fuentes con autoridad real y son percibidas así por los sistemas de IA y Google.
+
+**Qué hace que una mención sea de "alta calidad":**
+1. **Autoridad del sitio fuente:** Domain Rating alto, tráfico orgánico real
+2. **Relevancia temática:** el sitio trata sobre tu industria o tu ubicación
+3. **Contexto semántico:** la mención aparece rodeada de texto relevante a tus servicios
+4. **Información específica:** incluye nombre completo del negocio, ciudad, servicio específico
+5. **Enlace dofollow** (cuando aplica): transfiere autoridad directamente
+
+**Fuentes de menciones de alta calidad:**
+
+| Fuente | Valor | Cómo obtenerla |
+|--------|-------|----------------|
+| Periódicos locales digitales | Muy alto | Press releases, noticias reales |
+| Blogs especializados del nicho | Alto | Guest posts, entrevistas |
+| Directorios líderes (BBB, Angie's) | Alto | Registro y verificación |
+| Podcasts del nicho | Alto | Aparecer como invitado |
+| Asociaciones profesionales | Alto | Membresía y participación |
+| Sitios de reviews (Yelp, G2) | Medio-alto | Gestionar perfil activamente |
+| Foros de la industria | Medio | Participación genuina |
+
+**Estrategia para maximizar menciones de calidad:**
+1. Identificar las 10 fuentes más importantes de tu nicho/ciudad
+2. Crear un plan de outreach para aparecer en cada una
+3. Producir contenido que valga la pena mencionar (datos originales, guías expertas)
+4. Participar activamente en comunidades del nicho
+5. Buscar oportunidades de co-marketing con negocios complementarios
+
+---
+
+## 10.6 Create Even More Schema
+
+Más allá del schema básico de LocalBusiness, existen tipos de schema adicionales que pueden mejorar significativamente la visibilidad y el rich snippet en Google.
+
+**Schema adicionales recomendados:**
+
+**FAQPage Schema**
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Cuánto cuesta [servicio]?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "El costo de [servicio] varía según..."
+    }
+  }]
+}
+```
+
+**Service Schema**
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "[Nombre del Servicio]",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "[Nombre del Negocio]"
+  },
+  "areaServed": "[Ciudad, Estado]",
+  "description": "[Descripción del servicio]"
+}
+```
+
+**Review/AggregateRating Schema**
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "127"
+  }
+}
+```
+
+**HowTo Schema** (para contenido tutorial)
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Cómo [hacer algo]",
+  "step": [
+    {"@type": "HowToStep", "text": "Paso 1..."},
+    {"@type": "HowToStep", "text": "Paso 2..."}
+  ]
+}
+```
+
+**Dónde implementar schema adicional:**
+- **FAQ:** en páginas de servicios y la página de preguntas frecuentes
+- **Service:** en cada página de servicio individual
+- **AggregateRating:** en la homepage y páginas de servicios principales
+- **HowTo:** en artículos del blog que explican procesos
+
+**Validación:** Siempre verificar con la herramienta de Rich Results Test de Google después de implementar.
+
+---
+
+## 10.7 Review Diversification and Specificity: Attributes
+
+Las reviews no son todas iguales. Para maximizar su impacto en rankings y visibilidad en IA, deben ser diversas, específicas y contener los atributos correctos.
+
+**Por qué importa la diversificación de reviews:**
+- Reviews en una sola plataforma parecen artificiales
+- Distintas plataformas alimentan distintos sistemas de IA
+- Más plataformas = más menciones del negocio con keywords relevantes
+- Protección ante cambios de algoritmo de una plataforma específica
+
+**Plataformas de reviews por tipo de negocio:**
+
+| Tipo | Plataformas prioritarias |
+|------|--------------------------|
+| Servicios para el hogar | Google, Yelp, Angie's List, HomeAdvisor, BBB |
+| Restaurantes | Google, Yelp, TripAdvisor, OpenTable |
+| Salud | Google, Healthgrades, Zocdoc, RateMDs |
+| Legal | Google, Avvo, Martindale, Justia |
+| General local | Google, Yelp, BBB, Facebook |
+
+**Atributos específicos en las reviews:**
+Los atributos son las palabras descriptivas específicas que aparecen en las reviews. Impactan directamente cómo los sistemas de IA describen el negocio.
+
+Reviews valiosas incluyen:
+- Nombre del servicio específico recibido ("arreglaron mi tubería rota de emergencia")
+- Nombre del técnico o empleado
+- Resultado concreto ("llegaron en 45 minutos")
+- Ubicación ("en el norte de Austin")
+- Atributos de calidad ("profesional", "puntual", "precio justo")
+
+**Cómo solicitar reviews con atributos específicos:**
+- No pedir reviews genéricas — guiar al cliente sobre qué mencionar
+- Ejemplo de solicitud: "Si pudieras mencionar qué servicio realizamos y cómo fue la experiencia específica, nos ayudaría mucho"
+- Usar tarjetas de agradecimiento post-servicio con QR al perfil de reviews
+- Follow-up por email 24-48h después del servicio
+
+**Señales de review sana:**
+- Mix de 4 y 5 estrellas (no 100% cinco estrellas)
+- Texto descriptivo en la mayoría de reviews
+- Reviews distribuidas en el tiempo (no todas en una semana)
+- Respuestas del propietario que incluyen keywords naturalmente
+
+---
+
+## 10.8 Reddit Optimization
+
+Reddit es una plataforma con autoridad de dominio muy alta (DR 90+) que aparece frecuentemente en los primeros resultados de Google. Optimizar la presencia en Reddit puede generar tráfico significativo y backlinks valiosos.
+
+**Por qué Reddit importa para SEO:**
+- Domain Rating extremadamente alto — los links desde Reddit tienen peso
+- Los posts de Reddit aparecen en la primera página de Google para muchas búsquedas
+- Es una fuente de datos para el entrenamiento de LLMs (incluyendo ChatGPT)
+- Tráfico de referencia de alta calidad (usuarios activamente buscando información)
+
+**Estrategia de Reddit para negocios locales:**
+
+**Paso 1: Identificar subreddits relevantes**
+- Subreddits geográficos: r/Austin, r/Dallas, r/Chicago, etc.
+- Subreddits del nicho: r/HomeImprovement, r/legaladvice, r/personalfinance
+- Subreddits de la industria: r/plumbing, r/HVAC, r/electricians
+
+**Paso 2: Construir reputación primero**
+- Crear cuenta nueva dedicada (o usar la personal si tiene historial)
+- Participar genuinamente durante 2-4 semanas antes de cualquier autopromoción
+- Responder preguntas en el subreddit con conocimiento experto
+- Votar y comentar en posts relevantes
+
+**Paso 3: Contribuir con valor**
+- Responder preguntas técnicas con respuestas detalladas y útiles
+- Compartir recursos gratuitos o guías sin pedir nada a cambio
+- Mencionar el negocio solo cuando sea genuinamente relevante
+- Nunca hacer spam — la comunidad de Reddit lo detecta y penaliza
+
+**Paso 4: Posts estratégicos**
+- "Ask Me Anything" (AMA) sobre tu área de expertise
+- Publicar guías o recursos del nicho (con link al contenido completo en tu sitio)
+- Participar en threads de recomendaciones locales
+
+**Reglas críticas de Reddit:**
+- Nunca crear múltiples cuentas para votar tus propios posts
+- No publicar el mismo contenido en múltiples subreddits simultáneamente
+- Seguir las reglas específicas de cada subreddit
+- La autopromoción directa está prohibida en la mayoría de subreddits — ser sutil
+
+**Karma mínimo recomendado** antes de intentar posts promocionales: 100+ karma de comentarios en el subreddit objetivo.
+
+---
+
+## 11.1 YMYL-Niche Sites
+
+YMYL significa "Your Money or Your Life" — nicho de alta sensibilidad donde el contenido puede impactar la salud, finanzas, seguridad o bienestar de las personas.
+
+**Categorías YMYL principales:**
+- Salud y medicina (diagnósticos, tratamientos, medicamentos)
+- Finanzas personales (inversiones, préstamos, seguros, impuestos)
+- Legal (asesoría legal, procesos judiciales)
+- Seguridad (emergencias, prevención de accidentes)
+- Noticias y eventos de actualidad
+- Compras online de productos de alto valor
+
+**Por qué YMYL es diferente:**
+Google aplica estándares de E-E-A-T significativamente más altos a los sitios YMYL. Un artículo médico incorrecto puede dañar a las personas; por eso Google exige:
+- **Experiencia real** demostrable en el tema
+- **Expertise verificable** (credenciales, certificaciones)
+- **Autoridad reconocida** por otros expertos del campo
+- **Confianza** basada en transparencia, fuentes citadas, información de contacto
+
+**Estrategias específicas para YMYL:**
+
+1. **Autoría explícita:** Cada artículo debe tener un autor con credenciales verificables
+2. **Revisión por expertos:** Indicar quién revisó el contenido y sus calificaciones
+3. **Referencias y fuentes:** Citar estudios, instituciones, fuentes primarias
+4. **Disclaimers claros:** "Este artículo es informativo y no reemplaza consejo médico/legal/financiero profesional"
+5. **Actualización frecuente:** Indicar fecha de última actualización — el contenido YMYL desactualizado es penalizado
+6. **About Us robusto:** Página detallada sobre el equipo, credenciales, misión del sitio
+
+**Lo que NO funciona en YMYL:**
+- Contenido genérico sin autoría identificable
+- Afirmaciones sin fuentes
+- AI content sin revisión humana experta
+- Sitios anónimos sin información del equipo
+- Contenido que nunca se actualiza
+
+---
+
+## 11.2 Ethics: E-E-A-T Authorship Method
+
+E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) es el framework de calidad de Google. La autoría es un componente crítico que impacta directamente las señales de E-E-A-T.
+
+**Los cuatro componentes de E-E-A-T:**
+
+**Experience (Experiencia)**
+- El autor ha vivido o experimentado directamente el tema
+- Para un plomero: mencionar años en el campo, proyectos específicos realizados
+- Para un médico: pacientes tratados, especialidades clínicas
+- Las fotos y videos reales de trabajo demuestran experiencia
+
+**Expertise (Pericia)**
+- Conocimiento profundo y técnico del tema
+- Demostrado mediante: certificaciones, educación formal, publicaciones
+- El contenido debe ir más allá de lo obvio y demostrar conocimiento avanzado
+- Responder preguntas que solo un experto real sabría responder
+
+**Authoritativeness (Autoridad)**
+- Ser reconocido como autoridad por otros en el campo
+- Construida mediante: menciones de otros expertos, links de sitios autoritativos, citaciones
+- Participar en publicaciones del sector, dar charlas, ser entrevistado
+
+**Trustworthiness (Confianza)**
+- Transparencia sobre quién eres y qué haces
+- Información de contacto real y verificable
+- Política de privacidad y términos de servicio
+- Reviews auténticas y proceso de moderación honesto
+- No hacer promesas engañosas
+
+**El método de autoría E-E-A-T:**
+
+1. **Crear bios de autor detalladas** para cada colaborador del sitio
+   - Nombre completo y foto real
+   - Credenciales y certificaciones relevantes
+   - Años de experiencia
+   - Publicaciones o contribuciones notables
+   - Links a perfiles profesionales (LinkedIn, colegio profesional)
+
+2. **Schema de Person para autores**
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nombre del Autor",
+  "jobTitle": "Plomero Certificado",
+  "worksFor": {"@type": "Organization", "name": "Nombre del Negocio"},
+  "sameAs": ["https://linkedin.com/in/perfil", "https://twitter.com/perfil"]
+}
+```
+
+3. **Bylines consistentes** — el mismo autor atribuido consistentemente al mismo tipo de contenido
+
+4. **Perfil público del autor** — página dedicada en el sitio con todas las credenciales
+
+5. **Links a perfiles externos** — LinkedIn, Google Scholar, colegio profesional, etc.
+
+---
+
+## 11.3 When to Use a Sitemap
+
+Un sitemap XML es un archivo que lista todas las URLs de un sitio para facilitar el rastreo e indexación por parte de los motores de búsqueda.
+
+**Cuándo sí usar un sitemap:**
+- Sitios con más de 50-100 páginas
+- Sitios nuevos con pocos backlinks externos (Google puede tardar en descubrir las páginas)
+- Sitios con contenido que se actualiza frecuentemente (blogs, tiendas)
+- Sitios con páginas "huérfanas" (sin links internos que las apunten)
+- Sitios con contenido multimedia (imágenes, videos) que quieren indexar
+- E-commerce con catálogos grandes de productos
+
+**Cuándo NO es necesario un sitemap:**
+- Sitios pequeños (menos de 50 páginas) con buena estructura de links internos
+- Sitios con todas las páginas ya bien enlazadas desde la homepage
+- Sitios que ya tienen muchos backlinks externos (Google los rastreará naturalmente)
+
+**Tipos de sitemap:**
+- **XML Sitemap:** el estándar para SEO, lista URLs con metadatos opcionales (última modificación, frecuencia de cambio, prioridad)
+- **HTML Sitemap:** página visible para usuarios, útil para navegación y UX
+- **Image Sitemap:** lista imágenes del sitio para indexación en Google Images
+- **Video Sitemap:** para sitios con contenido de video
+
+**Estructura básica de sitemap XML:**
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+```
+
+**Herramientas para generar sitemaps:**
+- WordPress: Yoast SEO, Rank Math (generación automática)
+- Screaming Frog: puede generar sitemaps al rastrear el sitio
+- XML-Sitemaps.com: herramienta online gratuita
+- Google Search Console: verificar si el sitemap está siendo procesado correctamente
+
+**Proceso de envío:**
+1. Generar el sitemap
+2. Subirlo al root del dominio: `https://tusitio.com/sitemap.xml`
+3. Referenciar en robots.txt: `Sitemap: https://tusitio.com/sitemap.xml`
+4. Enviar manualmente en Google Search Console > Sitemaps
+
+---
+
+## 11.4 NoFollow Attributes on Links
+
+Los atributos rel="nofollow", rel="sponsored" y rel="ugc" controlan cómo Google trata los links en cuanto a transferencia de autoridad (PageRank).
+
+**Los tres atributos principales:**
+
+**rel="nofollow"**
+- Indica a Google que no siga ese link ni transfiera PageRank
+- Uso original: links en comentarios de blog para prevenir spam
+- Uso actual: links que no quieres endosar explícitamente
+- Google lo trata como una "pista", no una directiva estricta
+
+**rel="sponsored"**
+- Para links pagados, afiliados o cualquier forma de publicidad
+- Obligatorio para links de posts patrocinados, reviews pagadas
+- No declararlo cuando aplica puede resultar en penalización manual
+
+**rel="ugc" (User Generated Content)**
+- Para links en contenido generado por usuarios: comentarios, foros, posts de usuarios
+- Ayuda a Google a contextualizar la naturaleza del link
+
+**Cuándo usar nofollow:**
+- Links a sitios externos que no quieres endosar
+- Links en secciones de comentarios
+- Links de login, registro, o páginas de términos
+- Links a fuentes de baja confianza que citas por referencia
+
+**Cuándo NO usar nofollow:**
+- Links internos de tu propio sitio — nunca
+- Links a fuentes autoritativas que citas (NYT, Wikipedia, estudios científicos)
+- Links naturales en el contenido editorial que genuinamente recomiendas
+
+**PageRank sculpting:**
+El uso de nofollow para "esculpir" el flujo de PageRank dentro de tu sitio ya no funciona como antes. Google simplemente redistribuye el PageRank que habría ido al link nofollow. No intentes manipular el flujo interno de autoridad con nofollow.
+
+**Impacto en el perfil de backlinks:**
+Los links nofollow que apuntan a tu sitio aún tienen valor:
+- Contribuyen a la diversidad del perfil (un perfil 100% dofollow parece artificial)
+- Pueden generar tráfico de referencia
+- Ayudan con el descubrimiento de contenido
+
+---
+
+## 11.5 Hiding Content from Users
+
+Ocultar contenido de los usuarios mientras se muestra a los motores de búsqueda es una práctica de cloaking — una violación grave de las directrices de Google que puede resultar en penalización manual.
+
+**Qué está prohibido:**
+- Mostrar texto blanco sobre fondo blanco (invisible para usuarios, visible para bots)
+- CSS `display:none` o `visibility:hidden` para ocultar grandes bloques de contenido con keywords
+- Mostrar contenido diferente a Googlebot vs. usuarios reales
+- Redirigir a bots a páginas diferentes que a los usuarios
+
+**Qué SÍ está permitido:**
+- **Tabs y acordeones:** contenido oculto por defecto pero accesible con un click
+  - Google indexa el contenido dentro de tabs/acordeones
+  - Se considera menos valioso que el contenido visible inmediatamente, pero no es penalizado
+- **Carga diferida (lazy loading):** imágenes que cargan al hacer scroll
+  - Permitido siempre que el contenido sea accesible para Googlebot
+- **Contenido tras autenticación:** páginas de pago, contenido para miembros
+  - Permitido — Google entiende que el acceso restringido es legítimo
+
+**La prueba del usuario:**
+La regla simple: si un usuario normal no puede ver o acceder al contenido sin esfuerzo adicional, Google le dará menos peso. Siempre diseña para la experiencia del usuario primero.
+
+**Caso de uso legítimo de tabs:**
+Para páginas de servicios muy largas, usar tabs para organizar (p.ej. "Descripción", "FAQ", "Reviews") es aceptable y mejora la UX. Google indexa todo el contenido pero puede darle ligeramente menos peso al contenido en tabs vs. el contenido visible directamente.
+
+**Recomendación práctica:**
+Coloca el contenido más importante (incluyendo keywords principales) en la sección visible de la página, no dentro de tabs o acordeones colapsados.
+
+---
+
+## 11.6 Disavowing Existing Backlinks
+
+El disavow es una herramienta avanzada de Google Search Console que permite indicarle a Google que ignore ciertos links que apuntan a tu sitio.
+
+**Cuándo usar el disavow:**
+- Has recibido una penalización manual por "links artificiales o de baja calidad"
+- Tienes un perfil de backlinks con un volumen significativo de links claramente spam
+- Alguien está haciendo un "ataque de links negativos" (negative SEO) apuntando links spam a tu sitio
+- Compraste links en el pasado y quieres limpiar el historial
+
+**Cuándo NO usar el disavow:**
+- Por precaución — el disavow innecesario puede perjudicar al eliminar links buenos accidentalmente
+- Para links de baja calidad pero que no son activamente dañinos (directorios genéricos, sitios de baja DR)
+- Si no has recibido ninguna penalización manual y tu tráfico es estable
+
+**Proceso de disavow:**
+
+**Paso 1: Exportar el perfil de backlinks**
+- Usar Ahrefs, Semrush o Google Search Console para exportar todos los backlinks
+
+**Paso 2: Identificar links tóxicos**
+Señales de un link tóxico:
+- Sitios con contenido completamente irrelevante a tu nicho
+- Sitios con múltiples penalizaciones previas
+- Redes de blogs privados (PBNs) obvias
+- Sitios en idiomas completamente ajenos a tu mercado con anchor text exact match
+- Directorios de mala calidad creados solo para vender links
+
+**Paso 3: Intentar eliminación manual primero**
+- Contactar al webmaster del sitio y solicitar eliminación del link
+- Documentar todos los intentos de contacto (necesario para el proceso de reconsideración)
+
+**Paso 4: Crear el archivo disavow**
+```
+# Links dañinos identificados en auditoría [fecha]
+# Sitios completos
+domain:sitio-spam.com
+domain:otro-sitio-malo.com
+# URLs específicas
+https://sitio-spam.com/pagina-especifica/
+```
+
+**Paso 5: Subir a Search Console**
+- Search Console > Legacy Tools > Disavow links
+- Subir el archivo .txt
+- El proceso puede tardar semanas en surtir efecto
+
+**Advertencia crítica:** El disavow es irreversible en su efecto inmediato. Una vez subido, Google ignorará esos links. Auditar muy cuidadosamente antes de proceder — un error puede eliminar links valiosos.
+
+---
+
+## 12.1 Non-Local SEO Engagement Plan
+
+Al gestionar proyectos SEO continuos para clientes no-locales, el éxito proviene de un enfoque sistemático que construye autoridad topical con el tiempo.
+
+**El proceso Non-Local SEO:**
+
+```
+Content Audit → Topical Map → Create Content → Build Links → New Audit
+  (Month 1)      (Month 1)      (Month 2+)      (Always)    (Every 3-6 mo)
+                                    ↑_______________|
+                                    Repeat Cycle
+```
+
+**Mes 1: Fundación**
+El primer mes con cualquier cliente nuevo comienza con una auditoría de contenido exhaustiva para identificar "low-hanging fruit" — oportunidades de contenido que pueden rankear relativamente rápido con esfuerzo mínimo. Esta auditoría se convierte en el mapa de ruta para los meses siguientes.
+
+**Meses 2+: Ejecución y Expansión**
+En los meses siguientes, continuamos trabajando a través de los objetivos identificados en la auditoría inicial. No es necesario rehacer la auditoría de inmediato; en cambio, atacamos sistemáticamente distintos objetivos basándonos en el alcance y presupuesto del cliente.
+
+**Cada 3-6 meses: Reevaluación**
+Las auditorías de contenido regulares sirven para múltiples propósitos:
+- Identificar nuevas oportunidades de ranking
+- Evaluar el rendimiento del contenido previamente optimizado
+- Descubrir contenido que se ha acercado a la primera página
+- Garantizar un pipeline continuo de trabajo valioso
+
+Principio clave: A medida que el sitio gana autoridad y mejoran los rankings, cada auditoría posterior revela más oportunidades, creando un ciclo de crecimiento.
+
+**Cuándo usar Mapas de Relevancia Topical:**
+- Trabajando con negocios no-locales (e-commerce, SaaS, servicios nacionales)
+- El cliente necesita establecer autoridad en la materia
+- La ubicación geográfica NO es un factor de ranking primario
+- Construyendo contenido para audiencias nacionales o globales
+
+**Omitir Mapas Topicales en SEO Local:**
+- Los negocios locales se enfocan en relevancia geográfica (aunque también pueden necesitar relevancia topical)
+- El objetivo principal es rankear en áreas geográficas específicas
+
+Distinción importante: El SEO local se basa en autoridad geográfica y señales locales. El SEO no-local requiere cobertura topical comprehensiva para establecer expertise en un área temática.
+
+**El poder de la relevancia topical — Case Study: Cakes by MK**
+- Domain Rating: 16 (muy bajo)
+- Tráfico mensual: 200,000 visitantes
+- Keywords rankeadas: 41,000
+- Total de artículos: 212 publicados sobre tartas
+
+Este sitio demuestra que la autoridad de dominio no lo es todo — la profundidad topical puede superar las métricas tradicionales.
+
+**El proceso Non-Local SEO (5 pasos):**
+
+1. **Crear un Mapa de Relevancia Topical:** Antes de crear contenido, mapea todo el panorama topical de la industria del cliente. Difiere de la investigación de palabras clave tradicional — se trata de entender cada aspecto del tema que el cliente necesita cubrir. Los mapas topicales pueden hacerse simultáneamente con la primera auditoría de contenido, o en el segundo o tercer mes, dependiendo del tamaño del sitio.
+
+2. **Generar ideas de contenido comprehensivas:** El mapa topical debe generar cientos de oportunidades de contenido. Si tienes una auditoría de contenido, puedes mapear estas oportunidades a páginas existentes del sitio y ver dónde hay brechas.
+
+3. **Producción sistemática de contenido:** Usar los métodos de generación de contenido AI del curso. Nunca publicar contenido AI directamente sin edición humana. Cada pieza debe llenar una brecha específica en la cobertura topical.
+
+4. **Construir autoridad mediante links:** Regla crítica: nunca publicar contenido sin asegurar al menos un link externo hacia él.
+
+5. **Analizar la competencia:** Al evaluar oportunidades de contenido, revisar el SERP para entender Domain Ratings de los sitios que rankean, profundidad de contenido requerida, y oportunidades donde la relevancia topical puede superar la autoridad de dominio.
+
+**Estrategia de optimización continua:**
+1. Publicar contenido de alta calidad y relevancia topical
+2. Optimizar el enlazado interno para fortalecer clusters topicales
+3. Asegurar links externos para validar la calidad del contenido
+4. Pasar al siguiente objetivo
+5. Repetir el proceso consistentemente
+
+**Escalando los esfuerzos:**
+Una vez agotado el mapa topical inicial:
+- Generar temas adicionales en espacios adyacentes
+- Crear nuevos silos de contenido para áreas temáticas relacionadas pero distintas
+- Profundizar el contenido existente con variaciones más específicas (long-tail)
+- Actualizar y expandir las piezas exitosas para mantener frescura
+
+---
+
+## 12.2 Basic Site Structure
+
+Al construir un sitio web de SEO no-local, estructurar el contenido correctamente es crucial para establecer autoridad topical y ayudar a los motores de búsqueda a entender la jerarquía del sitio.
+
+**Prerrequisito:** Completar el ejercicio de Mapa de Relevancia Topical antes de diseñar la estructura del sitio.
+
+**La Estructura Jerárquica (3 niveles):**
+
+**Nivel 1: Topic Level (Tier 1)**
+- Comenzar con 30 temas principales basados en la keyword objetivo
+- Cada tema representa un área temática amplia dentro del nicho
+- Estas son las páginas de contenido "pillar"
+
+**Nivel 2: Variation Level (Tier 2)**
+- Crear 15 variaciones para cada tema
+- Son ángulos más específicos o subtemas
+- Total: 450 páginas (30 temas × 15 variaciones)
+
+**Nivel 3: Supporting Content Level (Tier 3)**
+- Añadir artículos de apoyo debajo de cada variación cuando sea necesario
+- Crear solo si se necesita poder de ranking adicional
+- Proporcionan profundidad y contexto a las variaciones
+
+**Resumen visual:**
+```
+Topic 1
+├── Variation 1 ↔ Variation 2 ↔ Variation 3 (link circle)
+│   ├── Supporting Content 1
+│   └── Supporting Content 2
+├── Variation 2
+├── Variation 3
+└── ... (hasta 15 variaciones)
+
+Topic 2 (silo separado — sin cross-linking con Topic 1)
+├── Variation 1
+└── ...
+```
+
+**Enlazado interno estratégico:**
+
+**Dentro de cada silo:**
+- Topic a Variaciones: cada página de tema enlaza a sus 15 variaciones; los links deben ser contextuales, dentro de secciones relevantes del texto
+- Variaciones a Topic: cada variación enlaza de vuelta a su tema padre; crea una relación jerárquica fuerte
+- Link Circles: las variaciones dentro del mismo tema forman círculos de links (Variation 1 → Variation 2 → Variation 3 → Variation 1); distribuye la equidad de links a lo largo del silo
+- Supporting Content: enlaza hacia arriba a su variación padre; la variación enlaza hacia abajo a su contenido de apoyo; el contenido de apoyo también puede formar círculos de links entre sí
+
+**Regla crítica: Mantener la integridad del silo**
+Nunca hacer cross-linking entre distintos silos de temas. Por ejemplo, Topic 4 Variation 2 NO debe enlazar a Topic 1 ni a ninguna de sus variaciones. Esto mantiene la relevancia topical y previene la dilución de las señales de autoridad del sitio.
+
+**Estrategia de implementación:**
+1. Comenzar con los Topics: escribir y publicar las 30 páginas de temas primero
+2. Añadir Variaciones sistemáticamente: trabajar un tema a la vez, creando las 15 variaciones antes de pasar al siguiente
+3. Links internos: añadir links al publicar, siguiendo la estructura descrita
+4. Supporting Content: añadir solo cuando sea necesario para keywords competitivas
+
+**Tips de creación de contenido:**
+- Aunque 450+ páginas parece abrumador, la creación de contenido con IA lo hace alcanzable
+- Mantener estándares de calidad incluso al producir a escala
+
+**Link building externo:**
+- Apuntar a construir al menos un backlink de calidad para cada página
+- Priorizar links a las páginas de temas primero, luego variaciones
+
+---
+
+## 12.3 Search Console for Existing Content
+
+Cuando buscas mejorar el rendimiento de un sitio web, una de las estrategias más efectivas es mejorar contenido que ya está ganando tracción.
+
+**Principio clave:** Es mucho más fácil mejorar los rankings para keywords en las que ya estás rankeando que rankear para keywords completamente nuevas.
+
+**Usando Custom Regex Filters en Search Console**
+
+La función de regex personalizado de Google Search Console permite filtrar queries de formas sofisticadas, identificando tipos específicos de keywords que representan diferentes oportunidades.
+
+**Configuración:**
+1. Navegar a tu propiedad en Search Console
+2. Ir al informe de Performance
+3. Hacer click en el filtro "Query"
+4. Seleccionar "Custom (regex)" del dropdown
+
+Nota: Search Console muestra un máximo de 1,000 queries.
+
+**Tres filtros regex poderosos:**
+
+**1. Queries basadas en preguntas**
+```
+Regex: what|who|when|where|why|how
+```
+Identifica todas las queries que contienen palabras interrogativas. Son especialmente valiosas porque:
+- Indican intención de búsqueda informacional
+- Los usuarios buscan respuestas detalladas
+- Frecuentemente tienen oportunidades de featured snippet
+
+Para identificar qué página rankea para una query específica: hacer click en la query para añadirla como filtro, luego navegar a la pestaña "Pages".
+
+**2. Long-Tail Keywords**
+```
+Regex: ^(\w+\s){5,}\w+$
+```
+Identifica queries con más de cinco palabras. Son valiosas porque:
+- Típicamente tienen menos competencia
+- Frecuentemente indican mayor intención del usuario
+- Pequeñas mejoras de ranking pueden tener impactos proporcionalmente grandes
+
+**3. Buyer Intent Keywords (Foco en e-commerce)**
+```
+Regex: price|advice|buy|order|promotions|best
+```
+Revela queries que indican intención de compra — las keywords de dinero, las más propensas a convertirse en ventas.
+
+Insight estratégico: Una query como "best truck seat covers" rankeando en posición 18 (top de página 2) representa una oportunidad crítica. Pasar de posición 11 (el "primer perdedor") a posición 8-9 puede aumentar los clicks de 13 a potencialmente 50-60.
+
+**Implementando los hallazgos:**
+1. Priorizar por oportunidad: enfocarse en queries rankeando entre posiciones 4-20
+2. Analizar el contenido: visitar las páginas rankeadas y evaluar qué mejoras las ayudarían a servir mejor la intención de búsqueda
+3. Mejorar estratégicamente: añadir información más completa, mejorar la estructura, actualizar datos, o abordar brechas en el contenido
+
+Estrategia de Quick Wins: Las páginas rankeando en posición 11 (top de página 2) deben ser la prioridad más alta. Moverlas al final de página 1 frecuentemente resulta en incrementos de tráfico de 3-5x.
+
+**Patrones regex adicionales a considerar:**
+- Queries de ubicación: `near me|in [city]|nearby`
+- Queries de comparación: `vs|versus|compare|difference`
+- Queries de año específico: `2024|2025` (actualizar anualmente)
+
+Pro Tip: Exportar los datos filtrados regularmente para hacer seguimiento de mejoras con el tiempo.
+
+---
+
+## 12.4 Click Through Rate (CTR) Analysis
+
+El Click Through Rate (CTR) representa el porcentaje de usuarios que hacen click en el link de tu sitio después de verlo en los resultados de búsqueda.
+
+**Por qué es tan poderoso:** Mejorar el CTR del 2% al 3% puede representar un aumento del **50% en el tráfico** — un boost significativo de lo que parece un cambio pequeño de porcentaje. Esta mejora típicamente proviene de optimizar los title tags y meta descriptions para ser más convincentes para los buscadores.
+
+**El proceso de análisis de CTR:**
+
+**Paso 1: Exportar los datos de Search Console**
+1. Navegar a Google Search Console
+2. Click en Performance en el sidebar izquierdo
+3. Seleccionar Export y elegir formato CSV
+4. Se recibirán dos archivos clave:
+   - **Queries:** muestra qué buscaron las personas para encontrar tu sitio
+   - **Pages:** muestra qué URLs aparecieron en los resultados de búsqueda
+
+**Paso 2: Preparar los datos con Screaming Frog**
+Para análisis comprehensivo, usar Screaming Frog para rastrear el sitio (la versión gratuita permite hasta 500 URLs):
+- Extrae los title tags y meta descriptions actuales
+- Ayuda a identificar páginas no indexables para excluirlas del análisis
+
+Tip: Enfocarse solo en páginas HTML indexables. Filtrar PDFs, imágenes y otros tipos de contenido no-HTML.
+
+**Paso 3: Analizar con Claude**
+Subir ambos archivos CSV a Claude junto con el prompt de análisis (proporcionado en los recursos del curso). Claude:
+- Emparejará queries a URLs específicas basándose en los datos de rendimiento
+- Identificará las keywords primarias probables para cada página
+- Calculará métricas de CTR del dominio completo y por página
+- Destacará oportunidades de optimización
+
+**Paso 4: Implementar cambios de alta prioridad**
+Enfocarse en páginas con:
+- **Alta cantidad de impresiones pero bajo CTR:** representan las mayores oportunidades
+- **Rankings en posiciones 4-10:** pequeñas mejoras aquí pueden empujarte a la primera página
+- **Títulos/descripciones desalineados:** donde el metadata actual no coincide con la intención del usuario
+
+**Lo que proporciona el análisis de Claude:**
+
+*Rendimiento general del dominio:*
+- CTR promedio en todas las queries y páginas
+- Queries de mejor rendimiento y sus métricas
+- Distribución de queries por posición de búsqueda
+
+*Insights por URL:*
+- Top 10 y bottom 10 URLs por CTR
+- Páginas con potencial de optimización
+- Keywords primarias inferidas para cada URL
+
+*Recomendaciones accionables:*
+- Reescrituras específicas de title tags y meta descriptions
+- Páginas prioritarias para optimización inmediata
+- Estrategias para abordar canibalización de keywords
+
+**Mejores prácticas para optimización de CTR:**
+1. Incluir la keyword primaria de forma natural en el título y la descripción
+2. Coincidir con la intención de búsqueda — asegurarse de que el mensaje se alinea con lo que los usuarios quieren
+3. Respetar los límites: Title tags: 50-60 caracteres; Meta descriptions: 150-160 caracteres
+
+Importante: Aunque Claude proporciona excelentes recomendaciones, siempre revisar las sugerencias antes de implementarlas. Asegurarse de que se alinean con la voz de marca y representan con precisión el contenido.
+
+Herramientas: Click Through Rate Analysis Prompt (en recursos del curso), Screaming Frog SEO Spider.
+
+---
+
+## 12.5 Identify Content with Existing Authority
+
+Google reconoce los dominios como autoridades en temas específicos. Cuando publicas nuevo contenido dentro de tus áreas de expertise establecidas, hereda tu autoridad existente y rankea más rápido — sin esperar meses o invertir en muchos backlinks.
+
+**Ejemplo:** Si Google confía en ti sobre "restauración de autos clásicos", el nuevo contenido sobre "técnicas de pintura de autos clásicos" rankeará rápidamente. Esta es la relevancia topical en acción.
+
+**Prerrequisito:** Completar la lección de CTR Analysis y exportar el archivo `internal_all` desde Screaming Frog.
+
+**Encontrar oportunidades de contenido con ChatGPT:**
+1. Exportar los datos de contenido existente: URLs, title tags, meta descriptions (del archivo `internal_all` de Screaming Frog)
+2. Subir a ChatGPT con el prompt de análisis de autoridad (en los recursos)
+3. Revisar las sugerencias de temas que se relacionan con tu mejor contenido y llenan brechas obvias
+
+**La Estrategia de los "Almost Winners"**
+Maximizar lo que ya tienes antes de crear algo nuevo. Este enfoque entrega los resultados más rápidos.
+
+Enfocarse en páginas rankeando en **posiciones 11-30 (páginas 2-3)**.
+
+Estas páginas son valiosas porque Google ya confía en ellas, y pequeñas mejoras pueden multiplicar el tráfico por 10. Además, ya han demostrado tener alguna relevancia.
+
+**Paso 1: Encontrar los objetivos**
+Usando Ahrefs, Semrush o Search Console:
+- Filtrar para posiciones 11-30
+- Ordenar por volumen de búsqueda
+- Buscar puntuaciones de dificultad razonables
+
+**Paso 2: Evaluar cada oportunidad**
+Verificar:
+- **Tráfico actual** (bajo = más seguro de optimizar)
+- **Dificultad de keyword** (menor = wins más fáciles)
+- **Volumen de búsqueda** (mayor = más potencial)
+- **Alineación de intención** (¿puede tu página satisfacer a los buscadores?)
+
+**Paso 3: Plan de optimización**
+1. Expandir la profundidad del contenido con IA
+2. Optimizar para keywords objetivo (usar Page Optimizer Pro)
+3. Coincidir con el enfoque de los 3 competidores principales
+4. Construir 1-2 backlinks de calidad
+
+**Implementación rápida:**
+Crear una hoja de cálculo con: URL objetivo, posición actual, keyword objetivo, tráfico actual vs. potencial, nivel de prioridad.
+Esta se convierte en el roadmap para quick wins en los primeros 60 días.
+
+**No hacer:**
+- Sobre-optimizar páginas que ya están obteniendo tráfico
+- Ignorar la intención de búsqueda
+- Solicitar re-rastreos manualmente
+- Sacrificar legibilidad por keywords
+
+**Sí hacer:**
+- Enfocarse en páginas verdaderamente con bajo rendimiento
+- Siempre mejorar la calidad del contenido
+- Dejar que los backlinks activen re-rastreos naturales
+
+---
+
+## 12.6 Generate Topical Relevance
+
+En el algoritmo moderno de Google, la relevancia topical es más importante que la investigación de palabras clave. Mientras las keywords siguen siendo relevantes, la relevancia topical es cómo estableces tu sitio web como la autoridad comprensiva en tu tema objetivo.
+
+La relevancia topical significa cubrir todos los aspectos de un área temática. Google analiza la amplitud y profundidad de tu contenido para determinar si eres verdaderamente un experto en tu campo.
+
+Insight clave: Estás construyendo clusters topicales que le señalan a Google que tu sitio es el recurso definitivo para todo lo relacionado con tu nicho.
+
+**Usando IA para generación de temas**
+Cuando solicites temas a la IA, especifica que deben ser "semánticamente relevantes según el algoritmo de Google" — no solo lo que la IA considera relevante.
+
+Esta distinción importa porque el algoritmo de Google tiene una comprensión semántica específica que difiere de las asociaciones generales de la IA.
+
+**Proceso de implementación:**
+1. Seleccionar el modelo de IA más reciente disponible
+2. Usar el prompt proporcionado en este módulo (no modificar la especificación de relevancia semántica)
+3. Generar 25 temas relacionados para tu tema objetivo
+4. Revisar los resultados para alineación con el algoritmo de Google
+
+Advertencia: Siempre usar el modelo de IA más actual disponible y verificar que tienes el modelo correcto seleccionado antes de proceder.
+
+**Próximos pasos:**
+Usar los 25 temas de relevancia topical para: planificar la creación de contenido, identificar brechas, construir clusters de temas, y establecer autoridad semántica.
+
+Se conecta con las lecciones de AI Content Prioritization y Creating a Content Planner.
+
+Recurso: Topical Relevance Prompt (en los recursos del módulo).
+
+---
+
+## 12.7 Keyword Research Philosophy
+
+La investigación de keywords ha cambiado fundamentalmente. Antes de ChatGPT y las actualizaciones recientes del algoritmo de Google, se solían pasar 4-5 horas analizando meticulosamente las keywords. Hoy, con la asistencia de IA y la creciente importancia de la autoridad topical, el enfoque es más ágil y estratégico.
+
+Insight clave: La creación de contenido ahora es económica, lo que nos permite apuntar a más keywords sin deliberación extensa. Esto cambia el enfoque de "¿qué keywords debemos atacar?" a "¿cómo construimos autoridad topical comprehensiva?"
+
+**Qué ha cambiado:**
+- La relevancia topical ahora tiene más peso en el algoritmo de Google
+- Las herramientas de IA nos ayudan a generar variaciones de keywords rápidamente
+- Los costos de creación de contenido han bajado dramáticamente
+- Podemos apuntar a clusters de keywords más amplios en lugar de términos individuales
+
+**Punto de partida: Evaluar el rendimiento actual**
+Al evaluar un sitio, el primer paso es analizar el tráfico de keywords no-branded. Preguntas clave:
+- ¿Cuánto tráfico proviene de búsquedas no-branded?
+- ¿Cuál es su Domain Rating actual?
+- ¿A qué panorama competitivo se enfrentan?
+
+Nota: Las keywords branded son fáciles de rankear — enfocarse en las oportunidades no-branded que traen nuevos visitantes.
+
+**La regla de Una URL, Una Keyword**
+Esto es crítico: **cada URL obtiene UNA keyword objetivo**.
+
+No se puede optimizar efectivamente una sola página para múltiples keywords. Aunque esto puede parecer limitante, recordar:
+- Una keyword optimizada frecuentemente rankea para múltiples variaciones
+- Queries similares tienden a producir resultados de búsqueda similares
+- La página capturará naturalmente keywords long-tail relacionadas
+
+Ejemplo — Keywords de lesiones personales:
+"personal injury lawyer" vs. "personal injury attorney":
+- Google los ve como casi idénticos
+- Los resultados de búsqueda son casi iguales
+- Rankear para uno típicamente significa rankear para ambos
+- Sumar sus volúmenes de búsqueda al evaluar la oportunidad
+
+Quick Test: Escribir ambas variaciones en Google. Si los resultados son similares, contarlas como una oportunidad de keyword con volumen combinado.
+
+**Gestión de expectativas del cliente**
+Los clientes frecuentemente sugieren keywords que son poco realistas para su nivel de autoridad actual. Escenario común:
+- Cliente tiene DR de 5
+- Quieren rankear para keywords que requieren DR de 80
+- No están preparados para invertir millones en link building
+
+El trabajo es encontrar objetivos alcanzables que puedan generar momentum y gradualmente aumentar su autoridad.
+
+**Qué se busca:**
+- **Alto volumen** (relativo al nicho del cliente)
+- **Baja competencia** (apropiado para su autoridad de dominio)
+- **Relevancia topical** (construye expertise en la materia)
+
+**El contexto importa — Volumen relativo al negocio:**
+- **B2B de alto valor:** 20-30 clicks/mes puede ser excelente (si cada cliente vale $50,000+)
+- **E-commerce:** 10,000 clicks/mes puede ser insignificante
+
+Siempre evaluar las oportunidades de keywords dentro del contexto del modelo de negocio del cliente y el ingreso por visitante.
+
+**El enfoque moderno: Cantidad sobre Perfección**
+Ya que la IA ha hecho la creación de contenido económica, la estrategia ha evolucionado:
+1. Lanzar una red más amplia — apuntar a todas las keywords relevantes del nicho
+2. Construir clusters topicales — cobertura comprehensiva de temas relacionados
+3. Dejar que Google decida — publicar más contenido y ver qué rinde
+4. Iterar basándose en datos — mejorar lo que funciona, eliminar lo que no
+
+**Calculando el volumen de búsqueda verdadero:**
+1. Identificar queries similares usando los resultados de búsqueda de Google
+2. Sumar los volúmenes de búsqueda de keywords que probablemente ranken juntas
+3. Calcular el promedio ponderado de las puntuaciones de dificultad
+4. Tomar decisiones basadas en la oportunidad combinada
+
+---
+
+## 12.8 AI-Generate Keyword Variations
+
+Esta lección enseña cómo usar IA para generar múltiples variaciones de keywords para los temas de contenido. Esta técnica ayuda a construir autoridad topical comprehensiva creando contenido semánticamente relevante que Google reconoce como autoritativo en el nicho.
+
+**Por qué son esenciales las variaciones de keywords:**
+- Aumentan la cobertura topical en el dominio
+- Construyen relevancia semántica que los motores de búsqueda reconocen
+- Crean más oportunidades de rankear para búsquedas relacionadas
+- Establecen autoridad de dominio en el nicho elegido
+
+**El proceso: De temas a keywords**
+
+**Paso 1: Comenzar con los temas núcleo**
+Usando los 25 temas relevantes identificados en la lección anterior (Generate Topical Relevance), expandir cada uno en múltiples variaciones de keywords.
+
+**Paso 2: Generar variaciones usando IA**
+Para cada uno de los 25 temas, usar Claude para generar:
+- 15 variaciones de keywords
+- Títulos optimizados para SEO
+- Encabezados de contenido
+- Esquemas básicos de contenido
+
+Ejemplo: Si el tema es "Introducción al Diseño Gráfico", la IA generará 15 enfoques diferentes de keywords para este tema, cada uno con su propio ángulo único e intención de búsqueda.
+
+**Paso 3: Escalar la estrategia de contenido**
+La matemática que hace esto poderoso:
+- 25 temas núcleo × 15 variaciones = **375 ideas de artículos únicos**
+- Cada artículo apunta a una variación de keyword específica
+- Todos los artículos permanecen semánticamente conectados al nicho principal
+
+**Consideraciones de Domain Rating:**
+- **Sitios con DR alto** pueden apuntar a variaciones más competitivas
+- **Sitios nuevos** deben enfocarse en variaciones long-tail, menos competitivas
+- Ajustar los objetivos de dificultad de keywords basándose en la fortaleza actual del sitio
+
+**El pipeline de creación de contenido:**
+Una vez completadas las 375 ideas de artículos con:
+- Keywords objetivo
+- Títulos optimizados para SEO
+- Encabezados de contenido
+- Esquemas básicos
+
+Pasar a la siguiente fase: usar IA para escribir todos los 375 artículos. Este enfoque sistemático permite construir autoridad mucho más rápido que los métodos tradicionales de creación de contenido.
+
+Importante: Los ejemplos en esta lección usan diseño gráfico como nicho. Adaptar todos los prompts y estrategias al área industrial o temática específica.
+
+Recurso: Keyword Variations Prompt (en los recursos del módulo).
+
+---
+
+## 12.9 Creating a Content Planner
+
+Antes de usar IA para escribir contenido, se necesita un planificador de contenido estructurado que contenga toda la información esencial que ChatGPT necesita para generar contenido de alta calidad optimizado para SEO que coincida con lo que ya está rankeando en Google.
+
+Nota: Para proyectos personales, un documento de Word simple funciona bien — no se necesita un planificador formal de cara al cliente.
+
+El principio: no estamos adivinando qué quiere Google — estamos mirando lo que ya está funcionando y modelando nuestro contenido en consecuencia.
+
+**Proceso paso a paso:**
+
+**1. Comenzar con la query de búsqueda objetivo**
+- Escribir la keyword en Google
+- Abrir las primeras 3-5 páginas que rankean
+
+**2. Analizar el conteo de palabras**
+- Usar Page Optimizer Pro u otras herramientas de conteo de palabras
+- Revisar las páginas top rankeadas (p.ej. promedio de 1,600 palabras)
+
+**3. Identificar el tema general del contenido**
+- Observar cómo los competidores enmarcan su contenido
+- Ejemplo: "motorized pergola" = "functional luxury at the touch of a button"
+
+**4. Recopilar H2, H3, y H4 Tags competitivos**
+- Copiar todos los encabezados de las páginas competidoras
+- Estos forman la fundación de la estructura del contenido
+
+**5. Recopilar preguntas "People Also Ask"**
+- Encontrar la sección PAA (añadir "FAQ" a la búsqueda si es necesario)
+- Hacer click para expandir todas las preguntas
+- Copiar todo — Google las ve como altamente relevantes
+
+**6. Recopilar búsquedas relacionadas**
+- Scrollear al fondo de los resultados de búsqueda
+- Copiar todas las búsquedas relacionadas
+
+**7. Explorar subtemas de imágenes de Google**
+- Hacer click en "Imágenes" en la búsqueda de Google
+- Anotar los filtros de subtemas sugeridos
+
+Qué omitir por ahora: variaciones de keywords, meta descriptions y links internos — se añadirán después usando Page Optimizer Pro.
+
+Recursos: [DoneForYou] Content Planners, Example Content Planner (en los recursos del módulo).
+
+---
+
+## 12.10 AI-Rewriting Pages
+
+Esta lección demuestra cómo mejorar sistemáticamente contenido existente que está rindiendo bien pero podría rankear más alto. Usando datos de Google Search Console combinados con IA, se pueden identificar páginas rankeando en la segunda página (posiciones 11-20) y optimizarlas para alcanzar la primera página con adiciones estratégicas de contenido.
+
+Cuando una página rankea en posiciones 11-12 para una query pero no contiene la keyword de coincidencia exacta, simplemente añadir esa keyword puede mejorar los rankings varios posiciones. Esta pequeña mejora frecuentemente es suficiente para mover el contenido de página 2 a página 1 — un enorme boost de tráfico.
+
+**El proceso de 6 pasos:**
+
+**Paso 1: Identificar páginas objetivo en Search Console**
+1. Navegar a Performance > Pages en Google Search Console
+2. Buscar páginas que rinden moderadamente bien pero tienen margen de mejora
+3. Seleccionar una página que muestre potencial (evitar páginas con rankings mixtos — algunas en página 1, otras en página 10+)
+4. Hacer click en la URL para filtrar los datos a esa página específica
+
+**Paso 2: Analizar el rendimiento de la página**
+1. Cambiar a la pestaña Queries para ver todos los términos de búsqueda de la página seleccionada
+2. Buscar queries donde estás rankeando en la segunda página (posiciones 11-20)
+3. Enfocarse en keywords comerciales o de compra si se trabaja con un sitio de e-commerce
+4. Exportar los datos como archivo CSV para análisis con IA
+
+**Paso 3: Análisis de contenido y reescritura con IA**
+1. Subir el archivo CSV a la herramienta de IA (ChatGPT o Claude)
+2. Copiar el contenido existente de la página
+3. Usar el prompt proporcionado para que la IA analice los datos CSV y reescriba el contenido incluyendo las keywords de coincidencia exacta
+
+Nota: Los prompts específicos para este proceso están disponibles en los recursos del curso.
+
+**Paso 4: Identificar la keyword objetivo primaria**
+1. Pedir a la herramienta de IA que identifique la keyword más importante para la que rankea actualmente la página
+2. Esta se convierte en el objetivo principal de optimización
+3. Aunque podría verificarse con herramientas como Ahrefs, el análisis de IA es típicamente preciso para este propósito
+
+**Paso 5: Generar contenido FAQ usando "People Also Ask"**
+1. Buscar en Google la keyword objetivo primaria
+2. Expandir la sección "People Also Ask" haciendo click en múltiples preguntas
+3. Copiar todas las preguntas y dárselas a la herramienta de IA
+4. Solicitar una sección FAQ que:
+   - Separe las preguntas respondidas directamente por el contenido existente de las que no lo son
+   - Se enfoque primero en preguntas que pueden responderse usando solo el contenido existente (reduce el riesgo de alucinaciones)
+   - Proporcione respuestas comprehensivas para establecer autoridad topical
+
+Importante: Siempre verificar los hechos del contenido generado por IA, especialmente cuando la IA extrae de fuentes externas en lugar del contenido proporcionado.
+
+**Paso 6: Planificar artículos de contenido de apoyo**
+1. Preguntar a la herramienta de IA qué preguntas del FAQ funcionarían bien como artículos independientes
+2. Solicitar keywords objetivo, title tags y esquemas de artículos para cada pieza sugerida
+3. Usarlos como contenido de apoyo que puede enlazar de vuelta a la página principal
+4. Esto crea un hub de contenido que refuerza la autoridad topical
+
+Recursos del módulo: Page Analysis Rewrite Prompts, Homepage Rewrite Prompt, Keywords Prompts.
+
+---
+
+## 6.10 Geotag Images
+
+El geotagging añade datos de ubicación geográfica a los metadatos de las imágenes, ayudando a los motores de búsqueda a entender dónde opera tu negocio. Herramienta recomendada: **GeoImgr**.
+
+**Detalles de la herramienta GeoImgr:**
+- $10/mes para procesamiento en lote (o gratis para imágenes individuales)
+- Procesar hasta 25 imágenes a la vez con una licencia
+- Completar 60-70 imágenes en menos de 30 minutos
+
+**¿Funciona?**
+Aunque algunos SEOs debaten su efectividad, se han visto clientes experimentar mejoras de ranking de la noche a la mañana después de subir imágenes geotagueadas.
+
+Filosofía: Si toma menos de 30 minutos, simplemente hazlo. El potencial beneficio supera la inversión mínima de tiempo.
+
+**La pregunta del Google Business Profile:**
+Sí, Google elimina los metadatos de las imágenes subidas al GBP. Sin embargo, esto no significa que Google ignore los datos durante la carga. Podrían procesar la información de ubicación antes de eliminarla.
+
+**Proceso rápido:**
+1. Subir imágenes a GeoImgr
+2. Ingresar la ubicación del negocio
+3. Hacer click en "Geotag"
+4. Subir al sitio web y al GBP
+
+Recurso: Geoimgr [Tool] (en los recursos del módulo).
+
+---
+
 # FIN DEL CURSO
 
-> Documento consolidado de **~62 lecciones** del curso AI SEO Mastery Pro, organizadas en 6 partes: Getting Started, SEO Foundation, How to Do Local AI SEO, Google Business Profile, Reviews & AI Content, y Building the Core 30 Site con Lovable. Quedan ~9 lecciones del módulo "Non-Local SEO" sin extraer. La extracción del tablón (posts de Caleb Ulku / Miles Hayat) corre por separado mediante la tarea programada.
+> Documento consolidado de **~95 lecciones** del curso AI SEO Mastery Pro, organizadas en todos los módulos: Getting Started, SEO Foundation, How to Do Local AI SEO, Google Business Profile, Creating AI Content, Building the Core 30 Site con Lovable, Starting Off-Site AI SEO, Optimizing for AI Systems, Special Circumstances y Non-Local SEO.
